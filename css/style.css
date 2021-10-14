@@ -1,0 +1,13 @@
+body {
+  color: white;
+  background: linear-gradient(to right, #55518E, #9B97D4)
+}
+button {
+  padding: 10px;
+  border-radius: 5px;
+  background: #ADA9E6;
+  color: #45417E;
+}
+section {
+  line-height: 2;
+}
